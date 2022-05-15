@@ -23,7 +23,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Dhyan Patell
   description: "EECS Senior at Princeton. I do research in wireless sensing and communications with a keen interest in advancing how novel perception platforms for robotics and healthcare"
-  keywords: [Blog, Portfolio]
+  keywords: [Portfolio, Resume, Robotics, Embedded Software, Wireless Sensing and Localization, Computer Vision, Research, Software Engineering, Mathematical Modeling and Optimization]
   author: Me
   author: "Me" # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]

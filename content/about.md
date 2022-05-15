@@ -27,7 +27,6 @@ I am fluent in English and Gujarati. My hobbies outside of tinkering include pin
 **Programming Languages**: *(proficient)* Python, C *(familiar)* Java, Golang, SQLite, MATLAB, R, Verilog, Assembly (ARMv8)\
 **ML Frameworks**: Pandas, PyTorch, OpenCV\
 **Hardware**: Arduino, PSoC, CPLD, XBee, Comm Protocols(I2C/UART...), Cadence OrCAD/Virtuoso\
-**Keywords**: Robotics, Embedded Software, Wireless Sensing and Localization, Computer Vision, Research, Software Engineering, Mathematical Modeling and Optimization
 
 ---------------------------
 ### Coursework
