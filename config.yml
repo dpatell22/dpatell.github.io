@@ -7,6 +7,7 @@ theme: "PaperMod"
 title: Dhyan Patell
 languageCode: en-us
 paginate: 5
+publishDir: docs
 
 enableRobotsTXT: true
 buildDrafts: false
