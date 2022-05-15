@@ -39,8 +39,8 @@ I am fluent in English and Gujarati. My hobbies outside of tinkering include pin
 - MAT 202: Linear Algebra (Spring 2019)
 - [ELE 201: Information Signals (Matlab) (Spring 2020)](https://registrar.princeton.edu/course-offerings/course-details?term=1204&courseid=002461)
 - [COS 302: Mathematics for Numerical Computing and Machine Learning (Python) (Spring 2021)](https://registrar.princeton.edu/course-offerings/course-details?term=1214&courseid=015411)
-- [MAT 391: Differential Equations (Fall 2019)](https://registrar.princeton.edu/course-offerings/course-details?term=1202&courseid=002329)
 - [ORF 309: Probability and Stochastic Systems (Spring 2022)](https://registrar.princeton.edu/course-offerings/course-details?term=1224&courseid=007999)
+- [MAT 391: Differential Equations (Fall 2019)](https://registrar.princeton.edu/course-offerings/course-details?term=1202&courseid=002329)
 
 **Computer Science/Systems**  
 - [ELE 206: Logic Design (Verilog) (Fall 2019)](https://registrar.princeton.edu/course-offerings/course-details?term=1202&courseid=002463)
