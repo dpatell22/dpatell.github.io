@@ -2,7 +2,7 @@
 #   imports:
 #   - path: github.com/adityatelange/hugo-PaperMod
 
-baseURL: "https://dpatell.com/"
+baseURL: "https://dpatell22.github.io"
 theme: "PaperMod"
 title: Dhyan Patell
 languageCode: en-us
