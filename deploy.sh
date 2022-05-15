@@ -1,2 +1,3 @@
-git commit -am$1
+hugo
+git commit -am'update site'
 git push
