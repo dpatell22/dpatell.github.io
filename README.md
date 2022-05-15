@@ -1,2 +1,1 @@
 # dpatell
-# dpatell.github.io
