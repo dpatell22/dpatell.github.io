@@ -2,7 +2,7 @@
 #   imports:
 #   - path: github.com/adityatelange/hugo-PaperMod
 
-baseurl: 'https://dpatell22.github.io/' # Must point to GitHub, not custom domain
+baseurl: 'https://dpatell.io/' # Must point to GitHub, not custom domain
 theme: "PaperMod"
 title: Dhyan Patell
 languageCode: en-us
